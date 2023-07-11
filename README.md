@@ -1,12 +1,12 @@
 ## SpleeterGUI
-SpleeterにGUIをつました。
+SpleeterにGUIをつました。<br>
 SpleeterはDeezerが開発した音楽のセパレートツールです。
 https://github.com/deezer/spleeter
 
 GUIで出来る設定は、結局使わないと思うので必要最低限にしました。
 
 ### 使い方
-1. 右のReleaseからSpleeterGUIx.x.x.zipをダウンロードする
+1. 右のReleasesからSpleeterGUIx.x.x.zipをダウンロードする
 2. SpleeterGUIx.x.x.zipを解凍する 
 3. SpleeterGUI.exeを起動する.※注意:パスに日本語が入っていると起動できません
 4. セパレートしたい音楽ファイルをAudio Fileに設定
