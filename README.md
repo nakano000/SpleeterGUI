@@ -1,6 +1,6 @@
 ## SpleeterGUI
 SpleeterにGUIをつました。<br>
-SpleeterはDeezerが開発した音楽のセパレートツールです。
+SpleeterはDeezerが開発した音楽のセパレートツールです。<br>
 https://github.com/deezer/spleeter
 
 GUIで出来る設定は、結局使わないと思うので必要最低限にしました。
