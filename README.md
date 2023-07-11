@@ -1,1 +1,2 @@
 # SpleeterGUI
+SpleeterにGUIをつました。
